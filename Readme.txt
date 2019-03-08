@@ -1,0 +1,1 @@
+Para ejecutar solo es necesario ejecutar testRead.py teniendo el objeto Chibirobo.obj y SRobj.py en la misma carpeta
